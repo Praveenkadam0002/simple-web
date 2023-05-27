@@ -1,0 +1,51 @@
+h1 {
+    color: blue;
+    text-align: left;
+    background-color: beige;
+}
+
+
+#demo {
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+p.dotted {
+    color: deeppink;
+    /* border-style: solid;
+    border-color: violet;  */
+    /* border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid; */
+    border: 8px dashed green; 
+
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-right: 55px;
+    margin-left: 55px;
+
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  
+}
+
+#tab, th, td {
+    border: 4px solid brown;
+}
+
+div {
+    color: orange;
+    text-align: right;
+}
+
+.cen {
+    color: green;
+}
+
+.cen {
+    border-style: dotted;
+}
